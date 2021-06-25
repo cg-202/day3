@@ -1,0 +1,31 @@
+.primary {
+  background: transparent;
+  border: 1px solid rgba(255, 255, 255, 0.8);
+  color: white;
+  font-size: 40px;
+  font-family: cursive;
+  padding: 32px;
+  font-weight: bold;
+  text-align: center;
+  border-radius: 8px;
+  margin-bottom: 8px;
+}
+
+#inputBox {
+  width: 60vw;
+  height: 40px;
+  font-size: 24px;
+  font-family: cursive;
+  margin-bottom: 8px;
+}
+
+.primary-btn {
+  height: 32px;
+  background-color: royalblue;
+  color: white;
+  border-radius: 8px;
+}
+
+.body-bg {
+  background: url("https://picsum.photos/700/700");
+}
